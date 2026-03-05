@@ -1,12 +1,32 @@
-## Hi there 👋
+# Faction Community
 
-<!--
+Welcome to the official GitHub organization of **Faction Community**.
 
-**Here are some ideas to get you started:**
+Faction Community is a messaging and communication platform focused on **privacy, reliability, and security**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🔒 Security
+
+Security is a core priority for Faction Community.
+
+If you believe you have discovered a **security vulnerability**, please report it responsibly so we can investigate and resolve the issue.
+
+**Please do not report security vulnerabilities through public means, including GitHub Issues, public Faction servers, X, Bluesky, or other social media platforms.**
+
+Instead, report them privately:
+
+**Email:** security@faction.li
+
+When submitting a report, please include:
+
+- A description of the vulnerability  
+- Steps to reproduce the issue  
+- In your words, the potential impact of the vulnerability  
+- Any suggested fixes or mitigations (if you can)
+
+We truely appreciate in depth disclosures and will review all reports as quickly as possible.
+
+## 📫 Contact
+
+For general questions or support:
+
+**Email:** support@faction.li
