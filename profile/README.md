@@ -6,9 +6,7 @@ Faction Community is a messaging and communication platform focused on **privacy
 
 ## 🔒 Security
 
-Security is a core priority for Faction Community.
-
-If you believe you have discovered a **security vulnerability**, please report it responsibly so we can investigate and resolve the issue.
+Security is a core priority for us, if you believe you have discovered a security vulnerability, please report it so we can investigate and resolve the issue.
 
 **Please do not report security vulnerabilities through public means, including GitHub Issues, public Faction servers, X, Bluesky, or other social media platforms.**
 
