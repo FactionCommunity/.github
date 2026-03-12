@@ -12,7 +12,7 @@ Security is a core priority for us, if you believe you have discovered a securit
 
 Instead, report them privately:
 
-**Email:** security@faction.li
+**Email:** security@faction.chat
 
 When submitting a report, please include:
 
@@ -27,4 +27,4 @@ We truely appreciate in depth disclosures and will review all reports as quickly
 
 For general questions or support:
 
-**Email:** support@faction.li
+**Email:** support@faction.chat
