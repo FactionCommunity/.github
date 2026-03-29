@@ -4,7 +4,7 @@ Welcome to the official GitHub organization of **Faction Community**.
 
 Faction Community is a messaging and communication platform focused on **privacy, reliability, and security**.
 
-## 🔒 Security
+## Security
 
 Security is a core priority for us, if you believe you have discovered a security vulnerability, please report it so we can investigate and resolve the issue.
 
@@ -23,7 +23,7 @@ When submitting a report, please include:
 
 We truely appreciate in depth disclosures and will review all reports as quickly as possible.
 
-## 📫 Contact
+## Contact
 
 For general questions or support:
 
